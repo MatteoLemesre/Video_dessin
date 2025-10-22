@@ -5,3 +5,8 @@ matplotlib
 seaborn
 scikit-learn
 plotly
+moviepy
+moviepy.editor
+cv2
+PIL
+os
